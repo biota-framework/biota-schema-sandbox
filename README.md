@@ -1,4 +1,4 @@
-# biota-schema-ui
+# biota-schema-sandbox
 
 > a ui to test biota schemas
 

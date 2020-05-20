@@ -1,7 +1,7 @@
 {
-  "name": "biota-schema-ui",
+  "name": "biota-schema-sandbox",
   "version": "1.0.0",
-  "description": "a ui to test biota schemas",
+  "description": "a sandbox for biota's schema",
   "author": "Gabin Desserprit",
   "private": true,
   "scripts": {
